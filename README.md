@@ -1,7 +1,3 @@
-# UPDATE - Competition results
-
-The competition results are now available in the [competition results](competition_results/) subfolder. 
-
 # Competition on LLM designed EA
 
 We are launching a competition centered on the innovative use of large language models (LLMs) to design evolutionary algorithms (EAs). This contest aims to explore the potential of LLMs in creating sophisticated EAs that can tackle complex optimization problems. Join us in contributing to this emerging field, showcasing how LLMs can enhance and accelerate the development of evolutionary algorithms.
@@ -60,3 +56,9 @@ The algorithms will be ranked on the basis of their mean value on each function.
 * The scores will be proportional
 * Maximum score is therefore 24 for the algorithm that would perform the best on each benchmark function
 * Maximum considered difference between algorithm performance is 10^-8
+* Runs with parameters out of range or better than optimum value will result in score 0 on that function.
+
+# Competition results
+
+The competition results and certificates are now available in the [competition_results](competition_results/) subfolder
+* [GECCO 2025](competition_results/GECCO2025/)
