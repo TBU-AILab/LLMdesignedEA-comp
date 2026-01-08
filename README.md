@@ -26,6 +26,7 @@ The benchmark is provided in 3 languages
 ## How to participate
 
 Submit your results in the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfuDm2elUQv_zCpGgmY3Yf__pXz-tzAdaVDy9zEIiBICDuIng/viewform?usp=dialog). You have to submit the following items:
+* Authors
 * Title of your algorithm
 * ZIP file with results in the format specified below
 * The used LLM with specified settings (e.g. *OpenAI GPT 4 turbo, temperature = 0.8*)
