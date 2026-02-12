@@ -15,7 +15,7 @@ We are organizing a competition centered on the innovative use of large language
 
 ## Benchmark definition
 
-We will be using GNBG benchmark for box-constrained numerical global optimization [A. H. Gandomi, D. Yazdani, M. N. Omidvar, and K. Deb, "GNBG-Generated Test Suite for Box-Constrained Numerical Global Optimization," arXiv preprint arXiv:2312.07034, 2023](https://arxiv.org/abs/2312.07034).
+We will be using GNBG benchmark for box-constrained numerical global optimization [A. H. Gandomi, M. N. Omidvar, R. Salgotra, and K. Deb, "A Generalized and Configurable Benchmark Generator for Continuous Unconstrained Numerical Optimization," arXiv preprint arXiv:2312.07083, 2023](https://arxiv.org/abs/2312.07083).
 There are 24 test functions of varying dimensions and varying problem landscapes.
 
 The benchmark is provided in 3 languages
